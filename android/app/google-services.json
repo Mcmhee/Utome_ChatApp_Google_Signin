@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699145161898",
+    "project_id": "chatapp-utome",
+    "storage_bucket": "chatapp-utome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699145161898:android:cd6a74bcc29746259114d3",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699145161898-q8c23sft10uufspijp876fqe30otf1ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ2Zd-z2UEOVoFRd-pE3Wz30uMN9Xp70M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699145161898-q8c23sft10uufspijp876fqe30otf1ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
